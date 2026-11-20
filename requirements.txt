@@ -6,3 +6,5 @@ matplotlib
 jupyter
 libpysal
 esda
+lightgbm
+scikit-learn
