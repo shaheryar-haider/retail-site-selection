@@ -4,3 +4,5 @@ h3
 folium
 matplotlib
 jupyter
+libpysal
+esda
