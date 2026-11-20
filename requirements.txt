@@ -8,3 +8,5 @@ libpysal
 esda
 lightgbm
 scikit-learn
+streamlit
+streamlit-folium

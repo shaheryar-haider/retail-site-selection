@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "top5",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "final_rank": 1, "opportunity": 0.778, "catchment_15_34": 43271.565, "food_in_hex": 50.0, "median_hh_income": 65099.459, "lat": 43.666, "lon": -79.369, "notes": "Dense apartments; grocery store, pharmacy, clinic; nearest bubble tea on Yonge" }, "geometry": { "type": "Point", "coordinates": [ -79.369132660041458, 43.665836746831928 ] } },
+{ "type": "Feature", "properties": { "final_rank": 2, "opportunity": 0.617, "catchment_15_34": 11224.055, "food_in_hex": 53.0, "median_hh_income": 92310.614, "lat": 43.678, "lon": -79.443, "notes": "Busy commercial strip (fast food, banks, retail, bars); nearest bubble tea two intersections away" }, "geometry": { "type": "Point", "coordinates": [ -79.443271018822642, 43.677884854325193 ] } },
+{ "type": "Feature", "properties": { "final_rank": 3, "opportunity": 0.532, "catchment_15_34": 12701.937, "food_in_hex": 21.0, "median_hh_income": 74668.579, "lat": 43.771, "lon": -79.332, "notes": "Many food businesses nearby; strongest of the maybes" }, "geometry": { "type": "Point", "coordinates": [ -79.33177100830865, 43.77093388799809 ] } },
+{ "type": "Feature", "properties": { "final_rank": 4, "opportunity": 0.482, "catchment_15_34": 10844.993, "food_in_hex": 27.0, "median_hh_income": 70436.593, "lat": 43.696, "lon": -79.449, "notes": "A lot of food businesses nearby and medium foot traffic" }, "geometry": { "type": "Point", "coordinates": [ -79.449010230788758, 43.696049958976502 ] } },
+{ "type": "Feature", "properties": { "final_rank": 5, "opportunity": 0.378, "catchment_15_34": 9287.539, "food_in_hex": 37.0, "median_hh_income": 101041.718, "lat": 43.64, "lon": -79.447, "notes": "high foot traffic, plus spending power nearby" }, "geometry": { "type": "Point", "coordinates": [ -79.446750674252542, 43.639698832141448 ] } }
+]
+}
