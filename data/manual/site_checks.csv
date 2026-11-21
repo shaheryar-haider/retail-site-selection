@@ -1,11 +1,11 @@
 rank,verdict,bubble_tea_within_1km,notes
 1,keep,0,"Dense apartments; grocery store, pharmacy, clinic; nearest bubble tea on Yonge"
-2,keep,0,"Busy commercial strip (fast food, banks, retail, bars); nearest bubble tea two intersections away"
-3,reject,1,Too few businesses to support a cafe
+2,keep,1,"Busy commercial strip (fast food, banks, retail, bars); nearest bubble tea two intersections away"
+3,reject,0,Too few businesses to support a cafe
 4,reject,1,Too few businesses; better than site 3
 5,keep,0,Many food businesses nearby; strongest of the maybes
 6,keep,0,A lot of food businesses nearby and medium foot traffic
 7,reject,0,Low foot traffic
 8,keep,0,"high foot traffic, plus spending power nearby"
 9,reject,0,Low foot traffic
-10,reject,0,"Near a school and residential area; weekday after-school traffic, quieter weekends"
+10,reject,0,"Near a school and residential area; quieter weekends. Close alternative, site 8 preferred for foot traffic"
